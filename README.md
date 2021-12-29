@@ -1,4 +1,4 @@
-### Hi there 👋
+                                                            <p align = 'center'>### Hi there 👋</p>
 
 <!--
 **Nikhileswar-Komati/Nikhileswar-Komati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +21,4 @@ My love for solving problems and python helped me achieve gold badges in problem
 
 Currently, I'm looking for new opportunities to work in data related roles while improving my knowledge along with my skillset.
 
-![](https://komarev.com/ghpvc/?username=Nikhileswar-Komati&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Nikhileswar-Komati&label=Profile+Views)
