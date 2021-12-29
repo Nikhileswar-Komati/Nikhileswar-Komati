@@ -1,19 +1,4 @@
-                                                            <p align = 'center'>### Hi there 👋</p>
-
-<!--
-**Nikhileswar-Komati/Nikhileswar-Komati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                                            <p align = "center"><h3>Hi there 👋</h3></p>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 😄 Hello, This is Nikhileswar Komati, a passionate developer with a B.Tech Degree in Information Technology from V R Siddhartha Engineering College, Currently working as a Systems Engineer @TCS.
 
@@ -21,4 +6,4 @@ My love for solving problems and python helped me achieve gold badges in problem
 
 Currently, I'm looking for new opportunities to work in data related roles while improving my knowledge along with my skillset.
 
-![](https://komarev.com/ghpvc/?username=Nikhileswar-Komati&label=Profile+Views)
+<p align = "center">![](https://komarev.com/ghpvc/?username=Nikhileswar-Komati&label=Profile+Views)</p>
