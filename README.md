@@ -15,11 +15,13 @@ My love for solving problems and python helped me achieve gold badges in problem
 
 Currently, I'm looking for new opportunities to work in data related roles while improving my knowledge along with my skillset.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <p align = 'center'>
   <a href = "https://nikhileswar-komati.github.io/">
     Portfolio
   </a>
 </p>
 
-[![](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://nikhileswar-komati.github.io/)
+[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://nikhileswar-komati.github.io/)
 ![](https://komarev.com/ghpvc/?username=Nikhileswar-Komati&style=flat-square)
