@@ -1,7 +1,5 @@
 <p align = "center">
-    <h3>
-        Hi there 👋
-    </h3>
+Hi there 👋
 </p>  
 
 
@@ -23,5 +21,5 @@ Currently, I'm looking for new opportunities to work in data related roles while
   </a>
 </p>
 
-
+[![](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://nikhileswar-komati.github.io/)
 ![](https://komarev.com/ghpvc/?username=Nikhileswar-Komati&style=flat-square)
